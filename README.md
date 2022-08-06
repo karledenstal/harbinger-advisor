@@ -5,5 +5,6 @@ Aims to give the Companions endgame a bit more substance, rather than just be a 
 ## Feature list
 - [ ] Earn weekly gold as Harbinger
 - [ ] Get continuous jobs through "Help wanted" box/board
-- [ ] Recruit new Companions
-- [ ] Send lesser Companions out to scout
+- [ ] Recruit new Companions (Similar to Blades recruitment)
+- [ ] Spar with Companions
+- [ ] Improve Jorrvaskr
