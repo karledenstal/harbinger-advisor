@@ -7,4 +7,3 @@ Aims to give the Companions endgame a bit more substance, rather than just be a 
 - [ ] Get continuous jobs through "Help wanted" box/board
 - [ ] Recruit new Companions
 - [ ] Send lesser Companions out to scout
-- [ ] 
